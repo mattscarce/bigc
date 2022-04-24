@@ -1,0 +1,14 @@
+Install python https://www.python.org/downloads/release/python-387/?msclkid=c742f580c2ee11eca38f3dd6bd415dc4&adlt=strict&toWww=1&redig=B91076AAC89C4BB8B6DF106FE1E0499A
+
+run the install.bat (you only need to do this if its your fist time)
+
+run sharebot.bat NOT main.py because that wont work
+
+you can check the .bat for any viruses if you are suspicious
+
+If the install does not work and says "pip is not recognised as an interal
+ or external batch program"
+
+go into command prompt and type "python -m pip install pip" and restart your computer
+
+
